@@ -11,6 +11,7 @@ import {
 import { Moon, Sun } from "lucide-react";
 
 const Theme = () => {
+    
   const { setTheme } = useTheme();
   return (
     <DropdownMenu>
