@@ -9,6 +9,7 @@ const inter = localFont({
   variable: "--font-inter",
   weight: "100 200 300 400 500 600 700 800 900",
 });
+
 const spaceGrotesk = localFont({
   src: "../public/fonts/InterVF.ttf",
   variable: "--font-space-grotesk",
